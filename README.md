@@ -1,1 +1,1 @@
-Netlify repo for `get.notionjs.com`
+Netlify repo for `get.jetson.sh`
