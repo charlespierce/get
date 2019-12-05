@@ -1,1 +1,1 @@
-Netlify repo for `get.jetson.sh`
+Netlify repo for `get.volta.sh`
