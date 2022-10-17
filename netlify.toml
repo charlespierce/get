@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/*"
 # FIXME: we should still use a function so this works from browsers too, and redirects to an MSI for Windows
-  to = "https://raw.githubusercontent.com/volta-cli/volta/8f2074f423c65405dfba9858d9bcf393c38ffb45/dev/unix/volta-install.sh"
+  to = "https://raw.githubusercontent.com/volta-cli/volta/c900e251223f584b9a463a3081a2dd0764fb274a/dev/unix/volta-install.sh"
   status = 200
